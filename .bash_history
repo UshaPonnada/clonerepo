@@ -86,3 +86,73 @@ git checkout tobacco_dev
 git branch
 git push -u origin main
 ls
+ls
+history
+git init
+cat>sai
+cat sai
+git add .
+git commit -m "sai file"
+git config--global user.name
+git config--global user.name "Rajesh"
+git config --global user.name "Rajesh"
+git config --global user.email "usha037@gmail.com"
+git branch
+ls
+git branch dev
+git checkout dev
+git branch
+cat>sai
+cat sai
+ls
+git add sai
+git commit -m "dev branch sai file"
+git branch
+git checkout main
+git branch
+git merge dev
+ls
+git merge dev
+cat sai
+git status
+git add .
+git commit -m "transaction"
+git status
+git merge dev
+git branch
+git checkout main
+ls
+cat>file2
+cat file2
+git add .
+git commit -m "main file"
+git checkout dev
+cat>file1
+cat file1
+cat file
+cat file2
+git add .
+git commit -m "file1 from dev"
+git checkout main
+git merge dev
+git branch
+vi file1
+vi file
+vi file2
+vi sai
+git merge dev
+git status
+cat file1
+git add .
+git commit -m "file1 from dev"
+git checkout main
+git merge dev
+git branch
+vi file1
+cat file1
+git add .
+git commit -m "merge done"
+cat file1
+git status
+git log --oneline
+git show e85c674
